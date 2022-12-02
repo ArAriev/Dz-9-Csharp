@@ -1,0 +1,15 @@
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\bin\Debug\net6.0\Zadacha005.exe
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\bin\Debug\net6.0\Zadacha005.deps.json
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\bin\Debug\net6.0\Zadacha005.runtimeconfig.json
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\bin\Debug\net6.0\Zadacha005.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\bin\Debug\net6.0\Zadacha005.pdb
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.csproj.AssemblyReference.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.AssemblyInfoInputs.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.AssemblyInfo.cs
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.csproj.CoreCompileInputs.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\refint\Zadacha005.dll
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.pdb
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\Zadacha005.genruntimeconfig.cache
+D:\GreekBrains Сертификаты\Си Шарп язык програмирования\Dz-9-Csharp\Zadacha005\obj\Debug\net6.0\ref\Zadacha005.dll
